@@ -1,3 +1,4 @@
+```
 <?php snippet('header') ?>
 
 <?php
@@ -20,3 +21,4 @@ foreach($groupedItems as $year => $itemsPerYear): ?>
 <?php endforeach ?>
 
 <?php snippet('footer') ?>
+```
